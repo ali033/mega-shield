@@ -2,7 +2,7 @@
 kicktable = {}
 
 do
-
+	
 local TIME_CHECK = 2 -- seconds
 -- Save stats, ban user
 local function pre_process(msg)
